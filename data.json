@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Antony",
+        "age": 36,
+        "location": {
+            "city": "Chennai",
+            "state": "TN"
+        }
+    },
+    {
+        "name": "Dinesh",
+        "age": 37,
+        "location": {
+            "city": "Tirupur",
+            "state": "TN"
+        }
+    },
+    {
+        "name": "Prashanth",
+        "age": 39,
+        "location": {
+            "city": "Bangaloe",
+            "state": "KA"
+        }
+    }
+]
